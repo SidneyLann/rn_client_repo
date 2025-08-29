@@ -1,0 +1,14 @@
+## ide
+**/.idea
+*.iml
+
+.classpath
+.project
+**/.settings
+
+## backend
+**/target
+**/logs
+
+## front
+**/*.lock
